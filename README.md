@@ -54,27 +54,44 @@ I am an MCA student passionate about building intelligent applications, designin
 
 ---
 
-### 📂 Featured Projects
+### 📂 Portfolios & Projects
 
-#### 🤖 [LangChain Q&A Assistant](https://github.com/chiranjeevi7777/langchain-qa-assistant)
-A modular Python demonstration showcasing core Generative AI architectures:
-- Implements custom **Retrieval-Augmented Generation (RAG)** using ChromaDB and OpenAI.
-- Integrates a conversational agent loop that routes tasks dynamically (e.g. calculator tool vs database search).
-- Features in-memory short-term buffer memory and comprehensive unit tests.
+#### 🤖 AI Projects (Generative AI & LLMs)
 
-#### 🔍 [Knowledge Agent Dictionary (KAD)](https://github.com/chiranjeevi7777/KAD)
-A search agent designed for knowledge extraction:
-- Features modular architecture separating knowledge retrieval (`vector_store.py`) and agent reasoning (`knowledge_agent.py`).
-- Implements embeddings representation for semantic dictionary lookups.
+*   **[AI-LangChain-QA-Assistant](https://github.com/chiranjeevi7777/AI-LangChain-QA-Assistant)**
+    A modular Python demonstration showcasing core Generative AI architectures:
+    *   Implements custom **Retrieval-Augmented Generation (RAG)** using ChromaDB and OpenAI.
+    *   Integrates a conversational agent loop that routes tasks dynamically (e.g. calculator tool vs database search).
+    *   Features in-memory short-term buffer memory and comprehensive unit tests.
+*   **[AI-Knowledge-Agent-Search](https://github.com/chiranjeevi7777/AI-Knowledge-Agent-Search)**
+    A search agent designed for knowledge extraction:
+    *   Features modular architecture separating knowledge retrieval (`vector_store.py`) and agent reasoning (`knowledge_agent.py`).
+    *   Implements embeddings representation for semantic dictionary lookups.
 
-#### 🖼️ [YOLOv10 Text Detection](https://github.com/chiranjeevi7777/Text-Detection-Yolov10n-)
-A Computer Vision project using the YOLOv10 architecture for localized text detection:
-- Fine-tuned Yolov10n model to identify and bound text regions in complex images.
-- Designed for integration into OCR pipelines.
+#### 📊 ML Projects (Machine Learning & Computer Vision)
 
-#### 🌸 [Flower Shop Management System](https://github.com/chiranjeevi7777/Flower_shop)
-A full-stack e-commerce web application:
-- Built with **PHP and MySQL**, featuring secure user authentication, role-based dashboards (customer vs admin), checkout workflows, and session handling.
+*   **[ML-YOLOv10-Text-Detection](https://github.com/chiranjeevi7777/ML-YOLOv10-Text-Detection)**
+    A Computer Vision project using the YOLOv10 architecture for localized text detection:
+    *   Fine-tuned Yolov10n model to identify and bound text regions in complex images.
+    *   Designed for integration into OCR pipelines.
+*   **[ML-Book-Recommendation-System](https://github.com/chiranjeevi7777/ML-Book-Recommendation-System)**
+    A recommendation engine:
+    *   Uses content-based filtering algorithms to suggest books based on user preferences.
+    *   Features a Python backend serving recommendations dynamically.
+
+#### 🌐 Fullstack Projects & Automation
+
+*   **[Fullstack-Flower-Shop](https://github.com/chiranjeevi7777/Fullstack-Flower-Shop)**
+    A full-stack e-commerce web application:
+    *   Built with **PHP and MySQL**, featuring secure user authentication, role-based dashboards (customer vs admin), checkout workflows, and session handling.
+*   **[Fullstack-Vite-Box-App](https://github.com/chiranjeevi7777/Fullstack-Vite-Box-App)**
+    A full-stack application workspace:
+    *   Built using **Vite, TypeScript, and a backend service**, implementing interactive state controls and responsive layout.
+*   **[Python-Smart-To-Do](https://github.com/chiranjeevi7777/Python-Smart-To-Do)**
+    An automated productivity tracker:
+    *   Manages task state-tracking and prioritization via local JSON serialization.
+*   **[Fullstack-Portfolio](https://github.com/chiranjeevi7777/Fullstack-Portfolio)**
+    Interactive resume/portfolio detailing my expertise, education, and credentials.
 
 ---
 
