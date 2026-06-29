@@ -18,7 +18,7 @@
 
 <br/>
 
-> *Welcome to my Grage.*
+> *The door rolls up. The lights flicker on. Somewhere in the back, a coffee machine starts grinding. Welcome in — this isn't a portfolio, it's a workshop, and everything in here was built by hand.*
 
 <br/>
 
@@ -49,13 +49,13 @@ I treat every repository like a piece of equipment in this garage: it has a purp
 
 ```
 ┌─────────────────────────┐
-│  OPERATOR LOG           │
+│  OPERATOR LOG            │
 ├─────────────────────────┤
-│  ROLE     AI Engineer   │
-│  FOCUS    Agentic AI    │
-│  STATUS   Building      │
-│  UPTIME   24/7          │
-│  COFFEE   Required      │
+│  ROLE     AI Engineer    │
+│  FOCUS    Agentic AI     │
+│  STATUS   Building       │
+│  UPTIME   24/7           │
+│  COFFEE   Required       │
 └─────────────────────────┘
 ```
 
@@ -206,9 +206,9 @@ Four things that came off this bench and actually shipped. Each one is a physica
 
 <!-- Snake contribution animation — generated nightly by .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chiranjeevi7777/chiranjeevi7777/output/dist/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chiranjeevi7777/chiranjeevi7777/output/dist/snake-light.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/chiranjeevi7777/chiranjeevi7777/output/dist/snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chiranjeevi7777/chiranjeevi7777/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chiranjeevi7777/chiranjeevi7777/output/snake-light.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/chiranjeevi7777/chiranjeevi7777/output/snake-dark.svg" width="100%" />
 </picture>
 
 </div>
