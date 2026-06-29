@@ -49,13 +49,13 @@ I treat every repository like a piece of equipment in this garage: it has a purp
 
 ```
 ┌─────────────────────────┐
-│  OPERATOR LOG            │
+│  OPERATOR LOG           │
 ├─────────────────────────┤
-│  ROLE     AI Engineer    │
-│  FOCUS    Agentic AI     │
-│  STATUS   Building       │
-│  UPTIME   24/7           │
-│  COFFEE   Required       │
+│  ROLE     AI Engineer   │
+│  FOCUS    Agentic AI    │
+│  STATUS   Building      │
+│  UPTIME   24/7          │
+│  COFFEE   Required      │
 └─────────────────────────┘
 ```
 
