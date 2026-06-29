@@ -18,7 +18,7 @@
 
 <br/>
 
-> *The door rolls up. The lights flicker on. Somewhere in the back, a coffee machine starts grinding. Welcome in — this isn't a portfolio, it's a workshop, and everything in here was built by hand.*
+> *Welcome to my Grage.*
 
 <br/>
 
