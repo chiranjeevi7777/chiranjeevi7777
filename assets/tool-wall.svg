@@ -1,0 +1,15 @@
+<svg viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tool wall pegboard divider">
+  <rect width="1200" height="90" fill="#101010"/>
+  <!-- pegboard holes -->
+  <g fill="#2a2a2a">
+    <!-- generate grid programmatically would be nicer but keep static for reliability -->
+  </g>
+  <defs>
+    <pattern id="pegHoles" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="15" cy="15" r="2" fill="#262626"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="90" fill="url(#pegHoles)"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#FF7A00" opacity="0.6"/>
+  <rect x="0" y="84" width="1200" height="6" fill="#FF7A00" opacity="0.6"/>
+</svg>

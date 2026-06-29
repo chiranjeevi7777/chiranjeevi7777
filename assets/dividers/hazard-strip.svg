@@ -1,0 +1,10 @@
+<svg viewBox="0 0 1200 8" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="hazard divider strip">
+  <defs>
+    <pattern id="hazard" width="40" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(0)">
+      <rect width="40" height="8" fill="#0a0a0a"/>
+      <polygon points="0,8 20,0 24,0 4,8" fill="#FFB200"/>
+      <polygon points="20,8 40,0 40,4 24,8" fill="#FFB200"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="8" fill="url(#hazard)"/>
+</svg>

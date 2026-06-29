@@ -1,0 +1,96 @@
+<svg viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Chiranjeevi's Garage banner">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#161616"/>
+    </linearGradient>
+    <linearGradient id="doorGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2b2b2b"/>
+      <stop offset="100%" stop-color="#1a1a1a"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFB200" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFB200" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FFB200" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" result="noise"/>
+      <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.03 0"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bgGrad)"/>
+  <rect width="1200" height="320" filter="url(#grain)"/>
+
+  <!-- hazard stripe top/bottom -->
+  <g opacity="0.5">
+    <rect x="0" y="0" width="1200" height="6" fill="#FF7A00"/>
+    <rect x="0" y="314" width="1200" height="6" fill="#FF7A00"/>
+  </g>
+
+  <!-- Garage door frame -->
+  <rect x="60" y="40" width="1080" height="200" fill="none" stroke="#3a3a3a" stroke-width="3"/>
+
+  <!-- Door panels rolling up -->
+  <clipPath id="doorClip">
+    <rect x="60" y="40" width="1080" height="200"/>
+  </clipPath>
+  <g clip-path="url(#doorClip)">
+    <g>
+      <rect x="60" y="40" width="1080" height="200" fill="url(#doorGrad)">
+        <animate attributeName="height" values="200;200;0;0" keyTimes="0;0.15;0.45;1" dur="6s" repeatCount="indefinite"/>
+      </rect>
+      <g stroke="#000" stroke-opacity="0.4">
+        <line x1="60" y1="70" x2="1140" y2="70">
+          <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.15;0.45;1" dur="6s" repeatCount="indefinite"/>
+        </line>
+        <line x1="60" y1="100" x2="1140" y2="100">
+          <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.15;0.45;1" dur="6s" repeatCount="indefinite"/>
+        </line>
+        <line x1="60" y1="130" x2="1140" y2="130">
+          <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.15;0.45;1" dur="6s" repeatCount="indefinite"/>
+        </line>
+        <line x1="60" y1="160" x2="1140" y2="160">
+          <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.15;0.45;1" dur="6s" repeatCount="indefinite"/>
+        </line>
+        <line x1="60" y1="190" x2="1140" y2="190">
+          <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.15;0.45;1" dur="6s" repeatCount="indefinite"/>
+        </line>
+        <line x1="60" y1="220" x2="1140" y2="220">
+          <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.15;0.45;1" dur="6s" repeatCount="indefinite"/>
+        </line>
+      </g>
+    </g>
+  </g>
+
+  <!-- Interior light sweep once door is "open" -->
+  <rect x="60" y="40" width="1080" height="200" fill="url(#glow)" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.15;0.15;0" keyTimes="0;0.45;0.55;0.9;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Title block -->
+  <text x="600" y="130" text-anchor="middle" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="44" font-weight="700" fill="#F5F5F0" letter-spacing="2">
+    CHIRANJEEVI&#8217;S GARAGE
+  </text>
+  <text x="600" y="168" text-anchor="middle" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="16" fill="#FFB200" letter-spacing="6">
+    EST. ENGINEERING WORKSHOP
+  </text>
+
+  <!-- typing caret line -->
+  <text x="600" y="205" text-anchor="middle" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="18" fill="#9a9a9a">
+    <tspan>&gt; building AI products, not tutorials</tspan>
+    <tspan fill="#FF7A00">_</tspan>
+    <animate attributeName="opacity" values="1;1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- bottom plate -->
+  <text x="600" y="290" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="13" fill="#5a5a5a" letter-spacing="3">
+    SERIAL NO. 0001 — STATUS: OPERATIONAL — POWER: ON
+  </text>
+
+  <!-- corner bolts -->
+  <circle cx="80" cy="60" r="5" fill="#3a3a3a" stroke="#555" stroke-width="1"/>
+  <circle cx="1120" cy="60" r="5" fill="#3a3a3a" stroke="#555" stroke-width="1"/>
+  <circle cx="80" cy="220" r="5" fill="#3a3a3a" stroke="#555" stroke-width="1"/>
+  <circle cx="1120" cy="220" r="5" fill="#3a3a3a" stroke="#555" stroke-width="1"/>
+</svg>
