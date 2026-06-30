@@ -236,9 +236,6 @@ coffee_consumed_today: 3
 mood: shipping
 ```
 
-**🎧 Now playing**
-
-<img src="https://novatorem-chiranjeevi7777.vercel.app/api/spotify" alt="spotify now playing" />
 
 </td>
 </tr>
