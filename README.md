@@ -308,7 +308,7 @@ The lights dim. The door rolls back down. Tomorrow there's another build on the 
 **Thanks for stopping by the garage.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-chiranjeevi7777-FFB200?style=for-the-badge&logo=github&logoColor=black)](https://github.com/chiranjeevi7777)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF7A00?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF7A00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiranjeevi-r-9b83bb317)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=FFB200)](#)
 
 <br/>
