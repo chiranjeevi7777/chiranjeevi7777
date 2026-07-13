@@ -65,7 +65,7 @@ I treat every repository like a piece of equipment in this garage: it has a purp
 
 [![GitHub](https://img.shields.io/badge/GitHub-chiranjeevi7777-FFB200?style=flat-square&logo=github&logoColor=black)](https://github.com/chiranjeevi7777)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF7A00?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiranjeevi-r-9b83bb317)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-1a1a1a?style=flat-square&logo=gmail&logoColor=FFB200)](https://chiranjeevi7777.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-1a1a1a?style=flat-square&logo=gmail&logoColor=FFB200)](mailto:chiru65c4@gmail.com)
 
 </td>
 </tr>
