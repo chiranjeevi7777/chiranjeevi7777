@@ -230,7 +230,7 @@ Four things that came off this bench and actually shipped. Each one is a physica
 
 ```yaml
 status: building
-current_project: KnowledgeVault AI
+current_project: GitQuest 
 research_track: GraphRAG + Hybrid Search
 coffee_consumed_today: 3
 mood: shipping
