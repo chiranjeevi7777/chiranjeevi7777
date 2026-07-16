@@ -32,7 +32,7 @@
 
 I'm an **AI engineer who builds products, not tutorials.**
 
-Most of my work lives at the intersection of applied machine learning and production software engineering — taking a research idea (RAG, agentic systems, computer vision) and turning it into something that ships, scales, and survives contact with real users.
+Most of my work lives at the intersection of applied machine learning and production software engineering — taking a research idea (RAG, agentic systems, computer vision) and turning it into something that ships.
 
 I treat every repository like a piece of equipment in this garage: it has a purpose, a build status, and a version number — not just a `git init` and a README nobody reads.
 
@@ -41,6 +41,7 @@ I treat every repository like a piece of equipment in this garage: it has a purp
 - 🧠 GraphRAG and hybrid search for enterprise knowledge bases
 - 👁️ Computer vision applications in healthcare diagnostics
 - 🔌 MCP-based tool orchestration
+- 💡 DSA & Algorithm optimization (LeetCode grind)
 
 **Philosophy:** ship small, ship often, instrument everything.
 
@@ -66,10 +67,48 @@ I treat every repository like a piece of equipment in this garage: it has a purp
 [![GitHub](https://img.shields.io/badge/GitHub-chiranjeevi7777-FFB200?style=flat-square&logo=github&logoColor=black)](https://github.com/chiranjeevi7777)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF7A00?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiranjeevi-r-9b83bb317)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-1a1a1a?style=flat-square&logo=gmail&logoColor=FFB200)](mailto:chiru65c4@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Chiranjeevi7R-FFB200?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/Chiranjeevi7R)
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img src="./assets/dividers/sign-dsa-grind.svg" width="100%" alt="dsa grind station" />
+
+<div align="center">
+
+### 🎯 LeetCode Progress Dashboard
+
+**Tracking algorithm mastery & DSA optimization**
+
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/api?username=Chiranjeevi7R&difficulty=all&extension=svg)](https://leetcode.com/Chiranjeevi7R/)
+
+</div>
+
+<div align="center">
+
+| Metric | Progress |
+|--------|----------|
+| **Problems Solved** | ![Dynamic](https://img.shields.io/badge/dynamic-LeetCode%20API-FFB200) |
+| **Acceptance Rate** | ![Dynamic](https://img.shields.io/badge/dynamic-LeetCode%20API-FFB200) |
+| **Ranking** | ![Dynamic](https://img.shields.io/badge/dynamic-LeetCode%20API-FFB200) |
+| **Current Streak** | 🔥 Building consistency |
+
+</div>
+
+**🎓 Problem Categories:**
+- Easy: String, Array, Hash Table
+- Medium: Dynamic Programming, Graph, Greedy
+- Hard: System Design, Optimization, Advanced Data Structures
+
+**📚 Study Focus:**
+- Graph algorithms & traversal patterns
+- Dynamic programming optimization
+- Sliding window techniques
+- Tree/Binary Search variants
+- System design principles
 
 <br/>
 
@@ -191,8 +230,8 @@ Four things that came off this bench and actually shipped. Each one is a physica
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chiranjeevi7777&show_icons=true&theme=react&bg_color=0d0d0d&title_color=FFB200&icon_color=FF7A00&text_color=e0e0e0&border_color=333333" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjeevi7777&layout=compact&theme=react&bg_color=0d0d0d&title_color=FFB200&text_color=e0e0e0&border_color=333333" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chiranjeevi7777&show_icons=true&theme=react&bg_color=0d0d0d&title_color=FFB200&icon_color=FF7A00&text_color=e0e0e0&border_color=FFB200">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjeevi7777&layout=compact&theme=react&bg_color=0d0d0d&title_color=FFB200&text_color=e0e0e0&border_color=FFB200">
 
 <br/>
 
@@ -200,7 +239,7 @@ Four things that came off this bench and actually shipped. Each one is a physica
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chiranjeevi7777&theme=react-dark&bg_color=0d0d0d&color=FFB200&line=FF7A00&point=ffffff&area=true&hide_border=true" width="100%" alt="contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chiranjeevi7777&theme=react-dark&bg_color=0d0d0d&color=FFB200&line=FF7A00&point=ffffff&area=true&hide_border=true" width="100%">
 
 <br/>
 
@@ -232,6 +271,7 @@ Four things that came off this bench and actually shipped. Each one is a physica
 status: building
 current_project: GitQuest 
 research_track: GraphRAG + Hybrid Search
+leetcode_streak: 🔥 Active
 coffee_consumed_today: 3
 mood: shipping
 ```
@@ -243,7 +283,7 @@ mood: shipping
 
 <br/>
 
-> **Setup note:** Spotify, WakaTime, and the streak widgets above need API keys wired into your repo secrets to go live. See [`docs/widget-setup.md`](./docs/widget-setup.md) for the exact steps. They're stubbed with `chiranjeevi7777` placeholders so the README still renders cleanly even before you configure them.
+> **Setup note:** Spotify, WakaTime, and the streak widgets above need API keys wired into your repo secrets to go live. See [`docs/widget-setup.md`](./docs/widget-setup.md) for the exact steps. LeetCode stats update automatically via GitHub Actions. See [`docs/leetcode-setup.md`](./docs/leetcode-setup.md) for setup instructions.
 
 <br/>
 
@@ -264,7 +304,7 @@ mood: shipping
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chiranjeevi7777&show_icons=true&hide=stars,contribs&include_all_commits=true&theme=react&bg_color=0d0d0d&title_color=FFB200&icon_color=FF7A00&text_color=e0e0e0&border_color=333333" alt="extended stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=chiranjeevi7777&show_icons=true&hide=stars,contribs&include_all_commits=true&theme=react&bg_color=0d0d0d&title_color=FFB200&icon_color=FF7A00&text_color=e0e0e0&border_color=FFB200">
 
 </div>
 
@@ -274,7 +314,7 @@ mood: shipping
 
 ```
  ░░ idea ░░──▶──░░ prototype ░░──▶──░░ build ░░──▶──░░ test ░░──▶──░░ ship ░░──▶──░░ iterate ░░
-        └──────────────────────────── continuous delivery loop ◀──────────────────────────┘
+        └──────────────────────────── continuous delivery loop ◀─────────────────────────┘
 ```
 
 Nothing sits on this belt for long. Every project keeps moving — that's the whole point of the garage.
@@ -309,6 +349,7 @@ The lights dim. The door rolls back down. Tomorrow there's another build on the 
 [![GitHub](https://img.shields.io/badge/GitHub-chiranjeevi7777-FFB200?style=for-the-badge&logo=github&logoColor=black)](https://github.com/chiranjeevi7777)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF7A00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiranjeevi-r-9b83bb317)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=FFB200)](https://chiranjeevi7777.github.io/Portfolio/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Chiranjeevi7R-FFB200?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Chiranjeevi7R)
 
 <br/>
 
