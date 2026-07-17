@@ -135,137 +135,85 @@ Every project is built with versioning, observability, and production readiness 
 </tr>
 </table>
 
+
 <br/>
 
 <img src="./assets/dividers/sign-lab.svg" width="100%" alt="research lab" />
 
-**Active Research Areas**
+This is the back room — the bench with the soldering iron still warm. Nothing here ships yet. These are the experiments that might become the next thing on the workbench.
 
-| Focus Area | Status | Use Case |
+| Focus Area | What it's testing | Status |
 |---|---|---|
-| **GraphRAG + Hybrid Search** | 🟢 Production | Enterprise knowledge discovery & semantic retrieval |
-| **Agentic AI & Reasoning** | 🟢 Production | Autonomous task execution with tool orchestration |
-| **RAG Systems** | 🟢 Production | Document Q&A, plagiarism detection, semantic search |
-| **Computer Vision** | 🟢 Production | Medical imaging, object detection, text extraction |
-| **Multi-Agent Systems** | 🟡 Active | Collaborative problem-solving & reasoning |
-| **MCP Tool Orchestration** | 🟡 Active | Standardized agent-tool interfaces |
-| **Voice AI Integration** | 🟠 Exploratory | Low-latency speech interfaces for agents |
+| **Agentic AI** | Multi-step reasoning with autonomous tool selection | 🟢 Production |
+| **GraphRAG** | Knowledge-graph-augmented retrieval for enterprise QA | 🟢 Production |
+| **Hybrid Search** | Dense + sparse retrieval fusion for precision-critical search | 🟢 Production |
+| **Knowledge Graphs** | Entity-relation extraction at document scale | 🟡 Active |
+| **Multi-Agent Systems** | Collaborative problem-solving & reasoning | 🟡 Active |
+| **MCP** | Tool orchestration via Model Context Protocol | 🟡 Active |
+| **Voice AI** | Low-latency speech interfaces for agents | 🟠 Exploratory |
+| **Multimodal AI** | Vision + language grounding for diagnostic tools | 🟡 Active |
 
 <br/>
 
 <img src="./assets/dividers/sign-showcase.svg" width="100%" alt="project showcase" />
 
-## Featured Projects
-
-<a id="showcase"></a>
-
-### 🎓 ScholarGuard-AI
-**Retrieval-Augmented Academic Integrity Platform**
-
-Academic integrity detection with explainable AI. Multi-source plagiarism detection, semantic retrieval, AI writing pattern analysis, and originality enhancement.
-
-**Tech:** Python · LangChain · Semantic Search · Explainable AI · RAG
-**Repository:** [→ ScholarGuard-AI](https://github.com/chiranjeevi7777/ScholarGuard-AI)
-
----
-
-### 📚 KnowledgeVault-AI
-**Enterprise Knowledge Intelligence Platform**
-
-Intelligent content ingestion and retrieval. Integrates Box content, transcribes audio/video with Whisper, indexes with ChromaDB, and answers questions using Amazon Bedrock Claude.
-
-**Tech:** TypeScript · Whisper · ChromaDB · Amazon Bedrock · Semantic Search
-**Repository:** [→ KnowledgeVault-AI](https://github.com/chiranjeevi7777/KnowledgeVault-AI)
-
----
-
-### 💼 CareerOS
-**AI-Powered Career Operating System**
-
-Full-stack career management platform. Track applications, run mock interviews, practice DSA, optimize resumes with AI, and manage networking. Built with offline-first architecture.
-
-**Tech:** React · FastAPI · TypeScript · PydanticAI · TailwindCSS
-**Repository:** [→ CareerOS](https://github.com/chiranjeevi7777/CareerOs)
-
----
-
-### 🏥 CardioVision-AI
-**Healthcare AI for Cardiac Diagnostics**
-
-Congenital heart disease classification from chest X-ray images. Deep learning with InceptionV3 and ensemble stacking for medical imaging applications.
-
-**Tech:** Python · PyTorch · InceptionV3 · Computer Vision · Medical AI
-**Repository:** [→ CardioVision-AI](https://github.com/chiranjeevi7777/CardioVision-AI)
-
----
-
-### 🔧 Enterprise-Knowledge-Intelligence
-**Enterprise RAG for ERP Systems**
-
-Semantic search and conversational AI for enterprise knowledge bases. ERP knowledge discovery with intelligent query routing and context-aware responses.
-
-**Tech:** Python · LangChain · Semantic Search · RAG · NLP
-**Repository:** [→ Enterprise-Knowledge-Intelligence](https://github.com/chiranjeevi7777/Enterprise-Knowledge-Intelligence)
-
----
-
-### 🎮 GitQuest
-**Interactive Git Learning Game**
-
-Learn version control through immersive gameplay. Cyberpunk-themed adventure teaching real Git commands with actual problem-solving scenarios.
-
-**Tech:** React · TypeScript · Vite · TailwindCSS · Framer Motion
-**Repository:** [→ GitQuest](https://github.com/chiranjeevi7777/GitQuest)
-
----
-
-### 📖 Other Notable Projects
-
-**BookSense-ML** — ML recommendation system using TF-IDF, cosine similarity, and Streamlit
-**[→ Repository](https://github.com/chiranjeevi7777/BookSense-ML)**
-
-**RAG-QA-Platform** — Document Q&A with LangChain and semantic retrieval
-**[→ Repository](https://github.com/chiranjeevi7777/RAG-QA-Platform)**
-
-**HirePilot-AI** — Resume + JD optimization agent with async FastAPI
-**[→ Repository](https://github.com/chiranjeevi7777/hirepilot-ai)**
-
-**Terminal-Skill-Craft** — Interactive dashboard for AI agent ruleset creation
-**[→ Repository](https://github.com/chiranjeevi7777/terminal-skill-craft)**
-
-**ML-YOLOv10-Text-Detection** — YOLOv10 for text detection and extraction
-**[→ Repository](https://github.com/chiranjeevi7777/ML-YOLOv10-Text-Detection)**
-
-**LeetCode-Solutions** — Auto-synced DSA problem solutions
-**[→ Repository](https://github.com/chiranjeevi7777/leetcode-solutions)**
-
-<br/>
-
-<img src="./assets/dividers/sign-dashboard.svg" width="100%" alt="metrics" />
-
-## Telemetry
+Four things that came off this bench and actually shipped. Each one is a physical object now — version number stamped on the side, status light on, progress logged.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chiranjeevi7777&show_icons=true&theme=react&bg_color=0d0d0d&title_color=FFB200&icon_color=FF7A00&text_color=e0e0e0&border_color=333333" alt="GitHub stats" />
+<a id="showcase"></a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjeevi7777&layout=compact&theme=react&bg_color=0d0d0d&title_color=FFB200&text_color=e0e0e0&border_color=333333" alt="Top languages" />
+<img src="./assets/project-cards/scholarguard-ai.svg" width="100%" alt="ScholarGuard AI - Retrieval-Augmented Academic Integrity Platform" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeevi7777&theme=react&background=0D0D0D&stroke=333333&ring=FFB200&fire=FF7A00&currStreakLabel=FFB200" alt="GitHub streak" />
+**[View repository →](https://github.com/chiranjeevi7777/ScholarGuard-AI)** &nbsp;|&nbsp; **[Live demo →](https://scholar-guard-ai.vercel.app/)** &nbsp;|&nbsp; **[Learn more →](https://github.com/chiranjeevi7777/ScholarGuard-AI#readme)**
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chiranjeevi7777&theme=react-dark&bg_color=0d0d0d&color=FFB200&line=FF7A00&point=ffffff&area=true&hide_border=true" width="100%" alt="contribution graph" />
+<img src="./assets/project-cards/knowledgevault-ai.svg" width="100%" alt="KnowledgeVault AI - Enterprise Knowledge Intelligence Platform" />
+
+**[View repository →](https://github.com/chiranjeevi7777/KnowledgeVault-AI)** &nbsp;|&nbsp; **[Architecture →](https://github.com/chiranjeevi7777/KnowledgeVault-AI#architecture)** &nbsp;|&nbsp; **[Documentation →](https://github.com/chiranjeevi7777/KnowledgeVault-AI#readme)**
 
 <br/>
 
-<!-- Contribution snake animation -->
+<img src="./assets/project-cards/careeros.svg" width="100%" alt="CareerOS - AI Career Operating System" />
+
+**[View repository →](https://github.com/chiranjeevi7777/CareerOs)** &nbsp;|&nbsp; **[Try live →](https://careeros.vercel.app/)** &nbsp;|&nbsp; **[Features →](https://github.com/chiranjeevi7777/CareerOs#features)**
+
+<br/>
+
+<img src="./assets/project-cards/cardiovision-ai.svg" width="100%" alt="CardioVision AI - Healthcare AI for Cardiac Diagnostics" />
+
+**[View repository →](https://github.com/chiranjeevi7777/CardioVision-AI)** &nbsp;|&nbsp; **[Research →](https://github.com/chiranjeevi7777/CardioVision-AI#research)**
+
+</div>
+
+<br/>
+
+<img src="./assets/dividers/sign-dashboard.svg" width="100%" alt="factory dashboard" />
+
+<img src="./assets/dashboard.svg" width="100%" alt="telemetry panel" />
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chiranjeevi7777&show_icons=true&theme=react&bg_color=0d0d0d&title_color=FFB200&icon_color=FF7A00&text_color=e0e0e0&border_color=333333" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjeevi7777&layout=compact&theme=react&bg_color=0d0d0d&title_color=FFB200&text_color=e0e0e0&border_color=333333" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeevi7777&theme=react&background=0D0D0D&stroke=333333&ring=FFB200&fire=FF7A00&currStreakLabel=FFB200" alt="GitHub Streak" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chiranjeevi7777&theme=react-dark&bg_color=0d0d0d&color=FFB200&line=FF7A00&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
+<br/>
+
+<!-- Snake contribution animation — generated nightly by .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chiranjeevi7777/chiranjeevi7777/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chiranjeevi7777/chiranjeevi7777/output/snake-light.svg" />
-  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/chiranjeevi7777/chiranjeevi7777/output/snake-dark.svg" width="100%" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/chiranjeevi7777/chiranjeevi7777/output/snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -276,22 +224,22 @@ Learn version control through immersive gameplay. Cyberpunk-themed adventure tea
 <tr>
 <td width="50%" valign="top">
 
-**📊 Achievements**
+**📊 GitHub Trophy Case**
 
-<img src="https://github-profile-trophy.vercel.app/?username=chiranjeevi7777&theme=darkhub&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="GitHub achievements" />
+<img src="https://github-profile-trophy.vercel.app/?username=chiranjeevi7777&theme=darkhub&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 
 </td>
 <td width="50%" valign="top">
 
-**🚀 Shipping Status**
+**🎯 Current Focus**
 
 ```yaml
-ScholarGuard-AI    🟢 Production
-KnowledgeVault-AI  🟢 Production
-CareerOS           🟡 Active Development
-GitQuest           🟢 Live
-RAG-QA-Platform    🟢 Stable
-CardioVision-AI    🟠 Research Phase
+status: building
+current_project: GitQuest 
+research_track: GraphRAG + Hybrid Search
+leetcode_streak: 🔥 Active
+coffee_consumed_today: ∞
+mood: shipping
 ```
 
 </td>
@@ -300,9 +248,45 @@ CardioVision-AI    🟠 Research Phase
 
 <br/>
 
+<img src="./assets/dividers/sign-shipping.svg" width="100%" alt="shipping dock" />
+
+<img src="./assets/shipping-dock.svg" width="100%" alt="shipping dock illustration" />
+
+| Build | Status | Last shipped |
+|---|---|---|
+| ScholarGuard-AI | 🟢 Live in production | This week |
+| KnowledgeVault-AI | 🟡 Active build, staging deployed | This week |
+| CareerOS | 🟡 Active development | Last month |
+| GitQuest | 🟢 Live | Last month |
+| CardioVision-AI | 🟠 Research phase, internal demo | This month |
+
+<br/>
+
+<img src="./assets/dividers/sign-achievements.svg" width="100%" alt="achievement wall" />
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chiranjeevi7777&show_icons=true&hide=stars,contribs&include_all_commits=true&theme=react&bg_color=0d0d0d&title_color=FFB200&icon_color=FF7A00&text_color=e0e0e0&border_color=333333" alt="GitHub Stats - Achievements" />
+
+</div>
+
+<br/>
+
+<img src="./assets/dividers/sign-conveyor.svg" width="100%" alt="factory conveyor" />
+
+```
+ ░░ idea ░░──▶──░░ prototype ░░──▶──░░ build ░░──▶──░░ test ░░──▶──░░ ship ░░──▶──░░ iterate ░░
+        └──────────────────────────── continuous delivery loop ◀───────────────────────────┘
+```
+
+Nothing sits on this belt for long. Every project keeps moving — that's the whole point of the garage.
+
+<br/>
+
 <img src="./assets/dividers/sign-coffee.svg" width="100%" alt="coffee corner" />
 
-<img src="./assets/coffee-corner.svg" width="100%" alt="coffee corner" />
+<img src="./assets/coffee-corner.svg" width="100%" alt="coffee corner illustration" />
+
 
 <div align="center">
 
@@ -312,29 +296,29 @@ CardioVision-AI    🟠 Research Phase
 
 <br/>
 
-<img src="./assets/dividers/sign-footer.svg" width="100%" alt="closing time" />
+<img src="./assets/dividers/sign-footer.svg" width="100%" alt="garage closing" />
 
 <div align="center">
 
-## Let's Build Something
-
-I'm always interested in collaborating on AI products, RAG systems, and full-stack applications. Whether it's startups, open source, or research—let's ship together.
+The lights dim. The door rolls back down. Tomorrow there's another build on the bench.
 
 <br/>
 
 <a id="contact"></a>
 
+**Thanks for stopping by the garage.**
+
 [![GitHub](https://img.shields.io/badge/GitHub-chiranjeevi7777-FFB200?style=for-the-badge&logo=github&logoColor=black)](https://github.com/chiranjeevi7777)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF7A00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiranjeevi-r-9b83bb317)
-[![Email](https://img.shields.io/badge/Email-chiru65c4@gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=FFB200)](mailto:chiru65c4@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=FFB200)](https://chiranjeevi7777.github.io/Portfolio/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Chiranjeevi7R-FFB200?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Chiranjeevi7R)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=chiranjeevi7777&style=flat-square&color=FFB200&label=VISITORS" alt="Profile visitors" />
+<img src="https://komarev.com/ghpvc/?username=chiranjeevi7777&style=flat-square&color=FFB200&label=GARAGE+VISITORS" alt="Profile visitors counter" />
 
 <br/><br/>
 
-<sub>Built by hand | Powered by curiosity and ☕ | Always shipping</sub>
+<sub>SERIAL NO. 0001 — BUILT BY HAND — POWERED BY COFFEE AND CURIOSITY</sub>
 
 </div>
