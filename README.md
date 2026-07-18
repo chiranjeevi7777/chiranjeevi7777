@@ -235,7 +235,7 @@ Four things that came off this bench and actually shipped. Each one is a physica
 
 ```yaml
 status: building
-current_project: GitQuest 
+current_project: GitQuest Game
 research_track: GraphRAG + Hybrid Search
 leetcode_streak: 🔥 Active
 coffee_consumed_today: ∞
