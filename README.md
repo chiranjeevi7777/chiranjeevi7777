@@ -58,7 +58,7 @@ Every project is built with versioning, observability, and production readiness 
 │  MODE    Shipping    │
 │  STACK   Python/TS   │
 │  STATUS  Operational │
-│  COFFEE  ∞ Required  │
+│  COFFEE  ∞ infinity  │
 └──────────────────────┘
 ```
 
