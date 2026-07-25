@@ -18,7 +18,7 @@
 
 <br/>
 
-> *Welcome to the AI Garage*
+> *Welcome to the Garage*
 
 <br/>
 
