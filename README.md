@@ -258,7 +258,7 @@ mood: shipping
 | KnowledgeVault-AI | 🟡 Active build, staging deployed | This week |
 | CareerOS | 🟡 Active development | Last month |
 | GitQuest | 🟢 Live | Last week |
-| CardioVision-AI | 🟠 Research phase, internal demo | This month |
+| CardioVision-AI | 🟠 Research phase, internal demo | Last month |
 
 <br/>
 
