@@ -254,7 +254,7 @@ mood: shipping
 
 | Build | Status | Last shipped |
 |---|---|---|
-| ScholarGuard-AI | 🟢 Live in production | This week |
+| ScholarGuard-AI | 🟢 Live in production | This Month |
 | KnowledgeVault-AI | 🟡 Active build, staging deployed | This week |
 | CareerOS | 🟡 Active development | Last month |
 | GitQuest | 🟢 Live | Last week |
