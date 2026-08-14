@@ -30,7 +30,7 @@
 
 ### Hey, I'm Chiranjeevi 👋
 
-I'm an **AI Engineer** who builds production systems, not proofs of concept.
+I'm an **Full Stack Engineer** who builds production systems, not proofs of concept.
 
 My work spans applied machine learning, retrieval-augmented generation (RAG), agentic AI systems, and full-stack product development. I specialize in taking research concepts (GraphRAG, multi-agent systems, computer vision) and shipping them as real products with measurable impact.
 
