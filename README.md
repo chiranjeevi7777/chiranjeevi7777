@@ -32,7 +32,7 @@
 
 I'm an **Full Stack Engineer** who builds production systems, not proofs of concept.
 
-My work spans applied machine learning, retrieval-augmented generation (RAG), agentic AI systems, and full-stack product development. I specialize in taking research concepts (GraphRAG, multi-agent systems, computer vision) and shipping them as real products with measurable impact.
+My work spans applied machine learning, retrieval-augmented generation (RAG), agentic AI systems, and full-stack product development. I specialize in taking research concepts (GraphRAG, multi-agen[...]
 
 Every project is built with versioning, observability, and production readiness in mind. No shortcuts.
 
@@ -135,7 +135,6 @@ Every project is built with versioning, observability, and production readiness 
 </tr>
 </table>
 
-
 <br/>
 
 <img src="./assets/dividers/sign-lab.svg" width="100%" alt="research lab" />
@@ -165,19 +164,19 @@ Four things that came off this bench and actually shipped. Each one is a physica
 
 <img src="./assets/project-cards/scholarguard-ai.svg" width="100%" alt="ScholarGuard AI - Retrieval-Augmented Academic Integrity Platform" />
 
-**[View repository →](https://github.com/chiranjeevi7777/ScholarGuard-AI)** &nbsp;|&nbsp; **[Live demo →](https://scholar-guard-ai.vercel.app/)** &nbsp;|&nbsp; **[Learn more →](https://github.com/chiranjeevi7777/ScholarGuard-AI#readme)**
+**[View repository →](https://github.com/chiranjeevi7777/ScholarGuard-AI)** &nbsp;|&nbsp; **[Live demo →](https://scholar-guard-ai.vercel.app/)** &nbsp;|&nbsp; **[Learn more →](https://gith[...]
 
 <br/>
 
 <img src="./assets/project-cards/knowledgevault-ai.svg" width="100%" alt="KnowledgeVault AI - Enterprise Knowledge Intelligence Platform" />
 
-**[View repository →](https://github.com/chiranjeevi7777/KnowledgeVault-AI)** &nbsp;|&nbsp; **[Architecture →](https://github.com/chiranjeevi7777/KnowledgeVault-AI#architecture)** &nbsp;|&nbsp; **[Documentation →](https://github.com/chiranjeevi7777/KnowledgeVault-AI#readme)**
+**[View repository →](https://github.com/chiranjeevi7777/KnowledgeVault-AI)** &nbsp;|&nbsp; **[Architecture →](https://github.com/chiranjeevi7777/KnowledgeVault-AI#architecture)** &nbsp;|&nbs[...]
 
 <br/>
 
 <img src="./assets/project-cards/careeros.svg" width="100%" alt="CareerOS - AI Career Operating System" />
 
-**[View repository →](https://github.com/chiranjeevi7777/CareerOs)** &nbsp;|&nbsp; **[Try live →](https://careeros.vercel.app/)** &nbsp;|&nbsp; **[Features →](https://github.com/chiranjeevi7777/CareerOs#features)**
+**[View repository →](https://github.com/chiranjeevi7777/CareerOs)** &nbsp;|&nbsp; **[Try live →](https://careeros.vercel.app/)** &nbsp;|&nbsp; **[Features →](https://github.com/chiranjeevi[...]
 
 <br/>
 
@@ -195,17 +194,17 @@ Four things that came off this bench and actually shipped. Each one is a physica
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chiranjeevi7777&show_icons=true&theme=react&bg_color=0d0d0d&title_color=FFB200&icon_color=FF7A00&text_color=e0e0e0&border_color=333333" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chiranjeevi7777&show_icons=true&theme=react&bg_color=0d0d0d&title_color=FFB200&icon_color=FF7A00&text_color=e0e0e0&borde[...]" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjeevi7777&layout=compact&theme=react&bg_color=0d0d0d&title_color=FFB200&text_color=e0e0e0&border_color=333333" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeevi7777&theme=react&background=0D0D0D&stroke=333333&ring=FFB200&fire=FF7A00&currStreakLabel=FFB200" alt="GitHub Streak" width="100%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjeevi7777&layout=compact&theme=react&bg_color=0d0d0d&title_color=FFB200&text_color=e0e0e0&border_color=[...]" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chiranjeevi7777&theme=react-dark&bg_color=0d0d0d&color=FFB200&line=FF7A00&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeevi7777&theme=react&background=0D0D0D&stroke=333333&ring=FFB200&fire=FF7A00&currStreakLabel=FFB200" alt="GitHub Streak" wi[...]" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chiranjeevi7777&theme=react-dark&bg_color=0d0d0d&color=FFB200&line=FF7A00&point=ffffff&area=true&hide_border=true" width="[...]" />
 
 <br/>
 
@@ -266,7 +265,7 @@ mood: shipping
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chiranjeevi7777&show_icons=true&hide=stars,contribs&include_all_commits=true&theme=react&bg_color=0d0d0d&title_color=FFB200&icon_color=FF7A00&text_color=e0e0e0&border_color=333333" alt="GitHub Stats - Achievements" />
+<img src="https://github-readme-stats.vercel.app/api?username=chiranjeevi7777&show_icons=true&hide=stars,contribs&include_all_commits=true&theme=react&bg_color=0d0d0d&title_color=FFB200&icon_colo[...]" />
 
 </div>
 
@@ -276,7 +275,7 @@ mood: shipping
 
 ```
  ░░ idea ░░──▶──░░ prototype ░░──▶──░░ build ░░──▶──░░ test ░░──▶──░░ ship ░░──▶──░░ iterate ░░
-        └──────────────────────────── continuous delivery loop ◀───────────────────────────┘
+        └──────────────────────────── continuous delivery loop ◀───────────────────────��[...]
 ```
 
 Nothing sits on this belt for long. Every project keeps moving — that's the whole point of the garage.
@@ -322,3 +321,6 @@ The lights dim. The door rolls back down. Tomorrow there's another build on the 
 <sub>SERIAL NO. 0001 — BUILT BY HAND — POWERED BY COFFEE AND CURIOSITY</sub>
 
 </div>
+
+
+<!-- contribution bump: commit made by GitHub Copilot on 2026-08-14 to register a contribution for user request -->
