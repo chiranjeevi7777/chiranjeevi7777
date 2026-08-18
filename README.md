@@ -38,7 +38,7 @@ Every project is built with versioning, observability, and production readiness 
 
 **Current Focus:**
 - 🤖 Agentic AI systems with autonomous reasoning & tool orchestration
-- 🧠 GraphRAG & hybrid semantic search for enterprise knowledge systems
+- 🧠 GraphRAG & hybrid semantic search for enterprise knowledge system
 - 👁️ Computer vision for healthcare diagnostics and accessibility
 - 🔌 MCP-based tool composition & agent orchestration
 - 🚀 FastAPI + React full-stack AI applications
