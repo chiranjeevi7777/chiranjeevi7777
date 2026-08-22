@@ -230,7 +230,7 @@ Four things that came off this bench and actually shipped. Each one is a physica
 </td>
 <td width="50%" valign="top">
 
-**🎯 Current Focus**
+**🎯 Current Focus On**
 
 ```yaml
 status: building
