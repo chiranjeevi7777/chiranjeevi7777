@@ -13,7 +13,7 @@ This turns `README.md` into your live GitHub profile page.
    docs/
    scripts/
    ```
-3. **Replace the placeholder.** Every instance of `chiranjeevi7777` needs to become your real GitHub username:
+3. ** the placeholder.** Every instance of `chiranjeevi7777` needs to become your real GitHub username:
    ```bash
    grep -rl 'chiranjeevi7777' . --include='*.md' --include='*.yml' | xargs sed -i 's/chiranjeevi7777/your-actual-username/g'
    ```
