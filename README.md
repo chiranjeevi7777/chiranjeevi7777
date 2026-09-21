@@ -53,7 +53,7 @@ Every project is built with versioning, observability, and production readiness 
 ┌──────────────────────┐
 │  SYSTEM STATUS       │
 ├──────────────────────┤
-│  ROLE    AI Engineer │
+│  ROLE    AI Engineer. │
 │  LEVEL   Senior      │
 │  MODE    Shipping    │
 │  STACK   Python/TS   │
